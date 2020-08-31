@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Froggy's_Book_and_Game_Store/1.0.0": {
+        "runtime": {
+          "Froggy's_Book_and_Game_Store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Froggy's_Book_and_Game_Store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

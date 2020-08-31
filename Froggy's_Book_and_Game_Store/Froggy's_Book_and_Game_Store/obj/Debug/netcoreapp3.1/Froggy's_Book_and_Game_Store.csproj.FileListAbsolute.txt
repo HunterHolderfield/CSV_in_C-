@@ -1,0 +1,13 @@
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\bin\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.exe
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\bin\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.deps.json
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\bin\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.runtimeconfig.json
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\bin\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.runtimeconfig.dev.json
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\bin\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.dll
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\bin\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.pdb
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\obj\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.csprojAssemblyReference.cache
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\obj\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.AssemblyInfoInputs.cache
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\obj\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.AssemblyInfo.cs
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\obj\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\obj\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.dll
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\obj\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.pdb
+C:\Users\Hunter\Documents\Projects\MyProjects\Froggys Game Store\Froggy's_Book_and_Game_Store\Froggy's_Book_and_Game_Store\obj\Debug\netcoreapp3.1\Froggy's_Book_and_Game_Store.genruntimeconfig.cache
